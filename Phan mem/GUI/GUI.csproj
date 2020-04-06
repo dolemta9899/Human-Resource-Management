@@ -47,6 +47,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComponentForm\BoxFrom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComponentForm\BoxFrom.Designer.cs">
+      <DependentUpon>BoxFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentForm\DomainUse.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComponentForm\Flat_Button.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComponentForm\Flat_Button.Designer.cs">
+      <DependentUpon>Flat_Button.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentForm\Panel_Simple.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComponentForm\ResizeAndMove.cs" />
+    <Compile Include="ComponentForm\Thin_Button.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComponentForm\Thin_Button.Designer.cs">
+      <DependentUpon>Thin_Button.cs</DependentUpon>
+    </Compile>
     <Compile Include="DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +86,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ComponentForm\BoxFrom.resx">
+      <DependentUpon>BoxFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentForm\Flat_Button.resx">
+      <DependentUpon>Flat_Button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComponentForm\Thin_Button.resx">
+      <DependentUpon>Thin_Button.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
@@ -89,6 +123,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{39ce8744-56bc-4ebf-86e1-3221e5d31ba2}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ico-exit-mac-hor-1.png" />

@@ -1,4 +1,4 @@
-﻿//using GUI.ComponentForm;
+﻿using GUI.ComponentForm;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -29,17 +29,10 @@ namespace GUI
             this.Dispose();
         }
 
-        //private void flat_sach_Click(object sender, EventArgs e)
-        //{
-        //    UC.NhanVien a = new UC.NhanVien();
-        //    a.Dock = DockStyle.Fill;
-        //    paluse.Controls.Add(a);
-        //    foreach (Control ctrl in paluse.Controls)
-        //    {
-        //        if (ctrl != a)
-        //            ctrl.Dispose();
-        //    }
-        //}
+        private void flat_sach_Click(object sender, EventArgs e)
+        {
+            
+        }
 
        
 
@@ -47,32 +40,17 @@ namespace GUI
 
        
 
-        //private void flat_timkiem_Click(object sender, EventArgs e)
-        //{
-        //    UC.TimKiem a = new UC.TimKiem();
-        //    a.Dock = DockStyle.Fill;
-        //    paluse.Controls.Add(a);
-        //    foreach (Control ctrl in paluse.Controls)
-        //    {
-        //        if (ctrl != a)
-        //            ctrl.Dispose();
-        //    }
+        private void flat_timkiem_Click(object sender, EventArgs e)
+        {
+            
 
-        //}
+        }
 
-        //private void flat_thongke_Click(object sender, EventArgs e)
-        //{
-        //    UC.PhongBan a = new UC.PhongBan();
-        //    a.Dock = DockStyle.Fill;
-        //    paluse.Controls.Add(a);
-        //    foreach (Control ctrl in paluse.Controls)
-        //    {
-        //        if (ctrl != a)
-        //            ctrl.Dispose();
-        //    }
+        private void flat_thongke_Click(object sender, EventArgs e)
+        {
+            
 
-
-        //}
+        }
 
         private void fl_help_Click(object sender, EventArgs e)
         {

@@ -36,9 +36,9 @@
             this.txtmk = new System.Windows.Forms.TextBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.errortk = new System.Windows.Forms.ErrorProvider(this.components);
-            //this.btnthoat = new GUI.ComponentForm.Thin_Button();
-            //this.btnlogin = new GUI.ComponentForm.Thin_Button();
-            //this.btntaotk = new GUI.ComponentForm.Thin_Button();
+            this.btnthoat = new GUI.ComponentForm.Thin_Button();
+            this.btnlogin = new GUI.ComponentForm.Thin_Button();
+            this.btntaotk = new GUI.ComponentForm.Thin_Button();
             ((System.ComponentModel.ISupportInitialize)(this.errortk)).BeginInit();
             this.SuspendLayout();
             // 
@@ -106,94 +106,94 @@
             // 
             // btnthoat
             // 
-            //this.btnthoat.Active = false;
-            //this.btnthoat.BackColor = System.Drawing.Color.Transparent;
-            //this.btnthoat.BoderColorDisable = System.Drawing.Color.Empty;
-            //this.btnthoat.BorderColorClick = System.Drawing.Color.Empty;
-            //this.btnthoat.BorderColorHover = System.Drawing.Color.Empty;
-            //this.btnthoat.BorderColorNomal = System.Drawing.Color.Green;
-            //this.btnthoat.InnerColorClick = System.Drawing.Color.Empty;
-            //this.btnthoat.InnerColorDisable = System.Drawing.Color.Empty;
-            //this.btnthoat.InnerColorHover = System.Drawing.Color.Empty;
-            //this.btnthoat.InnerColorNomal = System.Drawing.Color.Transparent;
-            //this.btnthoat.Location = new System.Drawing.Point(247, 202);
-            //this.btnthoat.Name = "btnthoat";
-            //this.btnthoat.Size = new System.Drawing.Size(75, 23);
-            //this.btnthoat.SizeBorder = 1;
-            //this.btnthoat.TabIndex = 2;
-            //this.btnthoat.Text = "Thoát";
-            //this.btnthoat.TextAlignmentHorizontal = System.Drawing.StringAlignment.Center;
-            //this.btnthoat.TextAlignmentVertical = System.Drawing.StringAlignment.Center;
-            //this.btnthoat.TextColorClick = System.Drawing.Color.Empty;
-            //this.btnthoat.TextColorDisable = System.Drawing.Color.Empty;
-            //this.btnthoat.TextColorHover = System.Drawing.Color.Empty;
-            //this.btnthoat.TextColorNomal = System.Drawing.Color.Black;
-            //this.btnthoat.UseActive = false;
-            //this.btnthoat.UseBorderColorHoverClick = false;
-            //this.btnthoat.UseInnerColorHoverClick = false;
-            //this.btnthoat.UseTextColorHoverClick = false;
-            //this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
-            //// 
-            //// btnlogin
-            //// 
-            //this.btnlogin.Active = false;
-            //this.btnlogin.BackColor = System.Drawing.Color.Transparent;
-            //this.btnlogin.BoderColorDisable = System.Drawing.Color.Empty;
-            //this.btnlogin.BorderColorClick = System.Drawing.Color.Empty;
-            //this.btnlogin.BorderColorHover = System.Drawing.Color.Empty;
-            //this.btnlogin.BorderColorNomal = System.Drawing.Color.Green;
-            //this.btnlogin.InnerColorClick = System.Drawing.Color.Empty;
-            //this.btnlogin.InnerColorDisable = System.Drawing.Color.Empty;
-            //this.btnlogin.InnerColorHover = System.Drawing.Color.Empty;
-            //this.btnlogin.InnerColorNomal = System.Drawing.Color.Transparent;
-            //this.btnlogin.Location = new System.Drawing.Point(151, 202);
-            //this.btnlogin.Name = "btnlogin";
-            //this.btnlogin.Size = new System.Drawing.Size(75, 23);
-            //this.btnlogin.SizeBorder = 1;
-            //this.btnlogin.TabIndex = 1;
-            //this.btnlogin.Text = "Đăng Nhập";
-            //this.btnlogin.TextAlignmentHorizontal = System.Drawing.StringAlignment.Center;
-            //this.btnlogin.TextAlignmentVertical = System.Drawing.StringAlignment.Center;
-            //this.btnlogin.TextColorClick = System.Drawing.Color.Empty;
-            //this.btnlogin.TextColorDisable = System.Drawing.Color.Empty;
-            //this.btnlogin.TextColorHover = System.Drawing.Color.Empty;
-            //this.btnlogin.TextColorNomal = System.Drawing.Color.Black;
-            //this.btnlogin.UseActive = false;
-            //this.btnlogin.UseBorderColorHoverClick = false;
-            //this.btnlogin.UseInnerColorHoverClick = false;
-            //this.btnlogin.UseTextColorHoverClick = false;
-            //this.btnlogin.Click += new System.EventHandler(this.btnlogin_Click);
-            //// 
-            //// btntaotk
-            //// 
-            //this.btntaotk.Active = false;
-            //this.btntaotk.BackColor = System.Drawing.Color.Transparent;
-            //this.btntaotk.BoderColorDisable = System.Drawing.Color.Empty;
-            //this.btntaotk.BorderColorClick = System.Drawing.Color.Empty;
-            //this.btntaotk.BorderColorHover = System.Drawing.Color.Empty;
-            //this.btntaotk.BorderColorNomal = System.Drawing.Color.Green;
-            //this.btntaotk.InnerColorClick = System.Drawing.Color.Empty;
-            //this.btntaotk.InnerColorDisable = System.Drawing.Color.Empty;
-            //this.btntaotk.InnerColorHover = System.Drawing.Color.Empty;
-            //this.btntaotk.InnerColorNomal = System.Drawing.Color.Transparent;
-            //this.btntaotk.Location = new System.Drawing.Point(36, 202);
-            //this.btntaotk.Name = "btntaotk";
-            //this.btntaotk.Size = new System.Drawing.Size(75, 23);
-            //this.btntaotk.SizeBorder = 1;
-            //this.btntaotk.TabIndex = 0;
-            //this.btntaotk.Text = "Tạo tài khoản";
-            //this.btntaotk.TextAlignmentHorizontal = System.Drawing.StringAlignment.Center;
-            //this.btntaotk.TextAlignmentVertical = System.Drawing.StringAlignment.Center;
-            //this.btntaotk.TextColorClick = System.Drawing.Color.Empty;
-            //this.btntaotk.TextColorDisable = System.Drawing.Color.Empty;
-            //this.btntaotk.TextColorHover = System.Drawing.Color.Empty;
-            //this.btntaotk.TextColorNomal = System.Drawing.Color.Black;
-            //this.btntaotk.UseActive = false;
-            //this.btntaotk.UseBorderColorHoverClick = false;
-            //this.btntaotk.UseInnerColorHoverClick = false;
-            //this.btntaotk.UseTextColorHoverClick = false;
-            //this.btntaotk.Click += new System.EventHandler(this.btntaotk_Click);
-            //// 
+            this.btnthoat.Active = false;
+            this.btnthoat.BackColor = System.Drawing.Color.Transparent;
+            this.btnthoat.BoderColorDisable = System.Drawing.Color.Empty;
+            this.btnthoat.BorderColorClick = System.Drawing.Color.Empty;
+            this.btnthoat.BorderColorHover = System.Drawing.Color.Empty;
+            this.btnthoat.BorderColorNomal = System.Drawing.Color.Green;
+            this.btnthoat.InnerColorClick = System.Drawing.Color.Empty;
+            this.btnthoat.InnerColorDisable = System.Drawing.Color.Empty;
+            this.btnthoat.InnerColorHover = System.Drawing.Color.Empty;
+            this.btnthoat.InnerColorNomal = System.Drawing.Color.Transparent;
+            this.btnthoat.Location = new System.Drawing.Point(247, 202);
+            this.btnthoat.Name = "btnthoat";
+            this.btnthoat.Size = new System.Drawing.Size(75, 23);
+            this.btnthoat.SizeBorder = 1;
+            this.btnthoat.TabIndex = 2;
+            this.btnthoat.Text = "Thoát";
+            this.btnthoat.TextAlignmentHorizontal = System.Drawing.StringAlignment.Center;
+            this.btnthoat.TextAlignmentVertical = System.Drawing.StringAlignment.Center;
+            this.btnthoat.TextColorClick = System.Drawing.Color.Empty;
+            this.btnthoat.TextColorDisable = System.Drawing.Color.Empty;
+            this.btnthoat.TextColorHover = System.Drawing.Color.Empty;
+            this.btnthoat.TextColorNomal = System.Drawing.Color.Black;
+            this.btnthoat.UseActive = false;
+            this.btnthoat.UseBorderColorHoverClick = false;
+            this.btnthoat.UseInnerColorHoverClick = false;
+            this.btnthoat.UseTextColorHoverClick = false;
+            this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
+            // 
+            // btnlogin
+            // 
+            this.btnlogin.Active = false;
+            this.btnlogin.BackColor = System.Drawing.Color.Transparent;
+            this.btnlogin.BoderColorDisable = System.Drawing.Color.Empty;
+            this.btnlogin.BorderColorClick = System.Drawing.Color.Empty;
+            this.btnlogin.BorderColorHover = System.Drawing.Color.Empty;
+            this.btnlogin.BorderColorNomal = System.Drawing.Color.Green;
+            this.btnlogin.InnerColorClick = System.Drawing.Color.Empty;
+            this.btnlogin.InnerColorDisable = System.Drawing.Color.Empty;
+            this.btnlogin.InnerColorHover = System.Drawing.Color.Empty;
+            this.btnlogin.InnerColorNomal = System.Drawing.Color.Transparent;
+            this.btnlogin.Location = new System.Drawing.Point(151, 202);
+            this.btnlogin.Name = "btnlogin";
+            this.btnlogin.Size = new System.Drawing.Size(75, 23);
+            this.btnlogin.SizeBorder = 1;
+            this.btnlogin.TabIndex = 1;
+            this.btnlogin.Text = "Đăng Nhập";
+            this.btnlogin.TextAlignmentHorizontal = System.Drawing.StringAlignment.Center;
+            this.btnlogin.TextAlignmentVertical = System.Drawing.StringAlignment.Center;
+            this.btnlogin.TextColorClick = System.Drawing.Color.Empty;
+            this.btnlogin.TextColorDisable = System.Drawing.Color.Empty;
+            this.btnlogin.TextColorHover = System.Drawing.Color.Empty;
+            this.btnlogin.TextColorNomal = System.Drawing.Color.Black;
+            this.btnlogin.UseActive = false;
+            this.btnlogin.UseBorderColorHoverClick = false;
+            this.btnlogin.UseInnerColorHoverClick = false;
+            this.btnlogin.UseTextColorHoverClick = false;
+            this.btnlogin.Click += new System.EventHandler(this.btnlogin_Click);
+            // 
+            // btntaotk
+            // 
+            this.btntaotk.Active = false;
+            this.btntaotk.BackColor = System.Drawing.Color.Transparent;
+            this.btntaotk.BoderColorDisable = System.Drawing.Color.Empty;
+            this.btntaotk.BorderColorClick = System.Drawing.Color.Empty;
+            this.btntaotk.BorderColorHover = System.Drawing.Color.Empty;
+            this.btntaotk.BorderColorNomal = System.Drawing.Color.Green;
+            this.btntaotk.InnerColorClick = System.Drawing.Color.Empty;
+            this.btntaotk.InnerColorDisable = System.Drawing.Color.Empty;
+            this.btntaotk.InnerColorHover = System.Drawing.Color.Empty;
+            this.btntaotk.InnerColorNomal = System.Drawing.Color.Transparent;
+            this.btntaotk.Location = new System.Drawing.Point(36, 202);
+            this.btntaotk.Name = "btntaotk";
+            this.btntaotk.Size = new System.Drawing.Size(75, 23);
+            this.btntaotk.SizeBorder = 1;
+            this.btntaotk.TabIndex = 0;
+            this.btntaotk.Text = "Tạo tài khoản";
+            this.btntaotk.TextAlignmentHorizontal = System.Drawing.StringAlignment.Center;
+            this.btntaotk.TextAlignmentVertical = System.Drawing.StringAlignment.Center;
+            this.btntaotk.TextColorClick = System.Drawing.Color.Empty;
+            this.btntaotk.TextColorDisable = System.Drawing.Color.Empty;
+            this.btntaotk.TextColorHover = System.Drawing.Color.Empty;
+            this.btntaotk.TextColorNomal = System.Drawing.Color.Black;
+            this.btntaotk.UseActive = false;
+            this.btntaotk.UseBorderColorHoverClick = false;
+            this.btntaotk.UseInnerColorHoverClick = false;
+            this.btntaotk.UseTextColorHoverClick = false;
+            this.btntaotk.Click += new System.EventHandler(this.btntaotk_Click);
+            // 
             // DangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -206,9 +206,9 @@
             this.Controls.Add(this.txttk);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            //this.Controls.Add(this.btnthoat);
-            //this.Controls.Add(this.btnlogin);
-            //this.Controls.Add(this.btntaotk);
+            this.Controls.Add(this.btnthoat);
+            this.Controls.Add(this.btnlogin);
+            this.Controls.Add(this.btntaotk);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "DangNhap";
@@ -222,9 +222,9 @@
 
         #endregion
 
-        //private ComponentForm.Thin_Button btntaotk;
-        //private ComponentForm.Thin_Button btnlogin;
-        //private ComponentForm.Thin_Button btnthoat;
+        private ComponentForm.Thin_Button btntaotk;
+        private ComponentForm.Thin_Button btnlogin;
+        private ComponentForm.Thin_Button btnthoat;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txttk;

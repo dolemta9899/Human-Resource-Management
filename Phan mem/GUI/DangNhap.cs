@@ -20,7 +20,7 @@ namespace GUI
             InitializeComponent();
        
         }
-        SqlConnection a = new SqlConnection(@"Data Source=DESKTOP-OBFA05G\SQLEXPRESS;Initial Catalog=HumanResourceManagement;Integrated Security=True");
+        SqlConnection a = new SqlConnection(@"Data Source=DESKTOP-OBFA05G\SQLEXPRESS;Initial Catalog=QLNS4;Integrated Security=True");
    
 
         private void txttk_Click(object sender, EventArgs e)
@@ -76,11 +76,10 @@ namespace GUI
             }
         }
 
-        //private void btntaotk_Click(object sender, EventArgs e)
-        //{
-        //    taotk a = new taotk();
-        //    a.Show();
-        //}
+        private void btntaotk_Click(object sender, EventArgs e)
+        {
+            
+        }
 
         private void txttk_Leave(object sender, EventArgs e)
         {
