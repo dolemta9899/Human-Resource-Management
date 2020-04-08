@@ -1,0 +1,33 @@
+E:\Projects\VisualStudioProjects\Projects\ThuVien\CommonObject\bin\Debug\CommonObject.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\CommonObject\bin\Debug\CommonObject.pdb
+E:\Projects\VisualStudioProjects\Projects\ThuVien\CommonObject\obj\Debug\CommonObject.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\CommonObject\obj\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\CommonObject\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\CommonObject\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\CommonObject\obj\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\CommonObject\obj\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\CommonObject\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\CommonObject\obj\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
+E:\QLNS\Phan mem\CommonObject\bin\Debug\CommonObject.dll
+E:\QLNS\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
+E:\QLNS\Phan mem\CommonObject\obj\Debug\CommonObject.csprojResolveAssemblyReference.cache
+E:\QLNS\Phan mem\CommonObject\obj\Debug\CommonObject.dll
+E:\QLNS\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\CommonObject\obj\Debug\CommonObject.csprojResolveAssemblyReference.cache
+F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\bin\Debug\CommonObject.dll
+F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
+F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\obj\Debug\CommonObject.csprojResolveAssemblyReference.cache
+F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\obj\Debug\CommonObject.dll
+F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
+E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\bin\Debug\CommonObject.dll
+E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
+E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.csprojAssemblyReference.cache
+E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.dll
+E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
+C:\Users\HP\Desktop\Phan mem\CommonObject\bin\Debug\CommonObject.dll
+C:\Users\HP\Desktop\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
+C:\Users\HP\Desktop\Phan mem\CommonObject\obj\Debug\CommonObject.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Phan mem\CommonObject\obj\Debug\CommonObject.dll
+C:\Users\HP\Desktop\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
