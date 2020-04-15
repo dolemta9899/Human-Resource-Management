@@ -21,13 +21,8 @@ F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\bin\Debug\CommonObject.pd
 F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\obj\Debug\CommonObject.csprojResolveAssemblyReference.cache
 F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\obj\Debug\CommonObject.dll
 F:\nam3_ki2\tt nhom\QuanLiNhanSu\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
-E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\bin\Debug\CommonObject.dll
-E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
-E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.csprojAssemblyReference.cache
-E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.dll
-E:\kì 6\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
-C:\Users\HP\Desktop\Phan mem\CommonObject\bin\Debug\CommonObject.dll
-C:\Users\HP\Desktop\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
-C:\Users\HP\Desktop\Phan mem\CommonObject\obj\Debug\CommonObject.csprojAssemblyReference.cache
-C:\Users\HP\Desktop\Phan mem\CommonObject\obj\Debug\CommonObject.dll
-C:\Users\HP\Desktop\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
+C:\Users\Admin\Desktop\Quản lí nhân sự\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\bin\Debug\CommonObject.dll
+C:\Users\Admin\Desktop\Quản lí nhân sự\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\bin\Debug\CommonObject.pdb
+C:\Users\Admin\Desktop\Quản lí nhân sự\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quản lí nhân sự\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.dll
+C:\Users\Admin\Desktop\Quản lí nhân sự\QuanLiNhanSu-master\QuanLiNhanSu-master\Phan mem\CommonObject\obj\Debug\CommonObject.pdb
